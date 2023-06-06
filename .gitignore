@@ -1,5 +1,6 @@
 node_modules/
 public/js
+resources/public/assets/js/*
 
 /target
 /checkouts
@@ -23,3 +24,6 @@ pom.xml.asc
 .portal/*
 .calva/*
 .lsp/*
+.cpcache/*
+
+src/stories/*
